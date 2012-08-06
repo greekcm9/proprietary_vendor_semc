@@ -1,0 +1,1 @@
+Semc vendor blobs for Xperia Mini Pro (aka Mango)
